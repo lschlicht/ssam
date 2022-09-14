@@ -1,0 +1,12 @@
+Package: ssam
+Type: Package
+Title: Data and Code corresponding to the publication "START AND END OF DAILY ACTIVITY PREDICT EXTRA-PAIR SIRING SUCCESS INDEPENDENTLY OF AGE IN MALE BLUE TITS" (Schlicht L., Santema P., Kempenaers B.)
+Version: 0.1.0
+Author: Schlicht, Lotte; Santema, Peter; Kempenaers, Bart
+Maintainer: Schlicht, Lotte <lschlicht@orn.mpg.de>
+Description: Data and code to provide means for checking and replicating the results presented in the publication.
+Depends: data.table, lme4
+License: Corresponding to the publication.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
